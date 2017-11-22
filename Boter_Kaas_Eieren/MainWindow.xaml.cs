@@ -24,5 +24,51 @@ namespace Boter_Kaas_Eieren
         {
             InitializeComponent();
         }
+
+        private void btnLeftTop_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void btnTopCenter_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnTopRight_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnMiddleLeft_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnMiddleCenter_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnMiddleRight_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnLeftBottom_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnMiddleBottom_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnRightBottom_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
+    
 }
